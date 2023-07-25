@@ -24,10 +24,18 @@ html {
     right: 0;
     display: flex;
     justify-content: center;
-    padding: 8;
+    margin: 30px auto;
+    padding: 50px;
   }
-  
+
   h1 {
-    padding: 0px 2px;
+    margin: auto;
+    padding: 50px 30px;
+    border-radius: 15px;
+    box-shadow: 15px 25px 40px;
+  	text-align: center;
+    background-image: url(aset/grunge-paint-background_1409-1337.avif);
+    color: #222222;
+
   }
   
